@@ -1,0 +1,1 @@
+# README do labolatorium z ZTP
